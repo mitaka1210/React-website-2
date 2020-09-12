@@ -1,52 +1,38 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-</style>
+<div>
 
 <h1 style="text-align:center; font-family: 'Lobster', cursive; ">Read Me</h1>
 
-<h1 style= "color:white; font-size: 1.3em;">Project with React JS,gh-pages,Styled Components.<h1>
+<h1 style= "color:red; font-size: 1.3em;" >This is my second project with React.Learn how to make a Responsive React Website using Styled Components. We will use React Hooks and React Router.<h1>
 
 ### Menu
 
-- [Website](#website)
+- [Website](#Website)
 - [Technologies](#Technologies)
-- [Code](#Code)
 - [Available Scripts](#Available-Scripts)
 - [License](#license)
 - [Author-Info](#About-info)
 
 ---
 
-## Website :
+## Website
 
-<div>
-<p style="font-size: 1.3em;">
-If you want visited website .
-</p>
-<button style="background-color:white; cursor: pointer; margin: 10px; border: 3px solid #6603fc; border-radius: 20px; height: 50px;">
-<a href="https://mitaka1210.github.io/React-Website-1/" style="color: red;"> React Website-1</a></button>
-</div>
+<h1 style="color: green;">
+<h1>If you want visited my WORK .</h1>
+
+Click here ==> <a href="https://keen-volhard-2b8ec9.netlify.app/" style="color: red;"> React Website-1</a>
 
 [Back To The Top](#Menu)
 
-#### Technologies :
+#### Technologies
 
 <div style="text-align: center; margin-bottom: 15px">
 <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
 <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
 <img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
-
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="./images/figma_logo_icon_147289.png" style="width: 45px; padding-bottom: 4px;"/>
-<img src="./images/file_type_sass_icon_130182.png" style="width:55px"></img>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
 </div>
-
-[Back To The Top](#Menu)
-
-### Code :
-
-<button style=" cursor: pointer;width: 90px; height: 30px; "> <a href="https://github.com/mitaka1210/React-Website-1">Check Code</a></button>
 
 [Back To The Top](#Menu)
 
@@ -120,26 +106,16 @@ SOFTWARE.
 
 [Back To The Top](#Menu)
 
----
+## About-info
 
-### About info
+My name is Dimitar Dimitrov and i specialization in Web design. For now i am focused on Frond end.
 
-<div class="social" style="display: inline;">
-		<ul style="display: flex;
-		justify-content: space-evenly;">
-			<li style=" list-style:none"><a href="https://www.facebook.com/mitaka1210">
-				<img src="./images/social/facebook.png" style="width: 55px;"/></a>
-			</li>
-			<li style=" list-style:none"><a href=https://twitter.com/dimitar1201">
-    			<img src="./images/social/twitter.png" style="width: 55px"/></a>
-    		</li>
-			<li style=" list-style:none"><a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/">
-    			<img src="./images/social/linkedin.png" style="width: 55px"/></a>
-    		</li>
-			<li style=" list-style:none"> <a href="https://mitaka1210.github.io/Portfolio-ENG">
-    			<img src="./images/social/Website.png" style="width: 58px;"/></a>
-    		</li>
-    	</ul>
-    </div>
+From one month i study hard React JS and work оn little project with to practice. Everything i learn alone From internet. For more information about me visit my website.
+
+<a href="https://www.facebook.com/mitaka1210"><img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a><a href="https://twitter.com/dimitar1201"><img src="https://icons.iconarchive.com/icons/emey87/social-button/64/twitter-icon.png"/></a><a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png"/></a><a href="https://mitaka1210.github.io/Portfolio-ENG"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/64/Website-icon.png"/></a>
+
+email - dimitard185@gmail.com
 
 [Back To The Top](#Menu)
+
+>
