@@ -1,3 +1,55 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+</style>
+
+<h1 style="text-align:center; font-family: 'Lobster', cursive; ">Read Me</h1>
+
+<h1 style= "color:white; font-size: 1.3em;">Project with React JS,gh-pages,Styled Components.<h1>
+
+### Menu
+
+- [Website](#website)
+- [Technologies](#Technologies)
+- [Code](#Code)
+- [Available Scripts](#Available-Scripts)
+- [License](#license)
+- [Author-Info](#About-info)
+
+---
+
+## Website :
+
+<div>
+<p style="font-size: 1.3em;">
+If you want visited website .
+</p>
+<button style="background-color:white; cursor: pointer; margin: 10px; border: 3px solid #6603fc; border-radius: 20px; height: 50px;">
+<a href="https://mitaka1210.github.io/React-Website-1/" style="color: red;"> React Website-1</a></button>
+</div>
+
+[Back To The Top](#Menu)
+
+#### Technologies :
+
+<div style="text-align: center; margin-bottom: 15px">
+<img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
+<img src="https://img.icons8.com/color/50/000000/javascript.png"/>
+<img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="./images/figma_logo_icon_147289.png" style="width: 45px; padding-bottom: 4px;"/>
+<img src="./images/file_type_sass_icon_130182.png" style="width:55px"></img>
+</div>
+
+[Back To The Top](#Menu)
+
+### Code :
+
+<button style=" cursor: pointer;width: 90px; height: 30px; "> <a href="https://github.com/mitaka1210/React-Website-1">Check Code</a></button>
+
+[Back To The Top](#Menu)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -29,6 +81,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `yarn eject`
 
+[Back To The Top](#Menu)
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
@@ -37,32 +90,56 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+[Back To The Top](#Menu)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+MIT License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Copyright (c) [2020][eng. dimitar dimitrov ]
 
-### Analyzing the Bundle Size
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### Making a Progressive Web App
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+[Back To The Top](#Menu)
 
-### Advanced Configuration
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### About info
 
-### Deployment
+<div class="social" style="display: inline;">
+		<ul style="display: flex;
+		justify-content: space-evenly;">
+			<li style=" list-style:none"><a href="https://www.facebook.com/mitaka1210">
+				<img src="./images/social/facebook.png" style="width: 55px;"/></a>
+			</li>
+			<li style=" list-style:none"><a href=https://twitter.com/dimitar1201">
+    			<img src="./images/social/twitter.png" style="width: 55px"/></a>
+    		</li>
+			<li style=" list-style:none"><a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/">
+    			<img src="./images/social/linkedin.png" style="width: 55px"/></a>
+    		</li>
+			<li style=" list-style:none"> <a href="https://mitaka1210.github.io/Portfolio-ENG">
+    			<img src="./images/social/Website.png" style="width: 58px;"/></a>
+    		</li>
+    	</ul>
+    </div>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[Back To The Top](#Menu)
